@@ -1,0 +1,12 @@
+{
+    "name": "blizzz/fake_appstore",
+    "require": {
+        "czproject/git-php": "^4.2"
+    },
+    "license": "agplv3",
+    "autoload": {
+        "psr-4": {
+            "OCP\\FakeAppstore\\": "lib/"
+        }
+    }
+}
